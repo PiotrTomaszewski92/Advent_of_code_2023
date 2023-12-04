@@ -9,5 +9,5 @@
 4. From the website view, select the link you are interested in to see the solution.
 
 ### About me
-Piotr Adam Tomaszewski [Linkedin](https://pl.linkedin.com/in/tomaszewskipeter)
+Piotr Adam Tomaszewski [Linkedin](https://pl.linkedin.com/in/tomaszewskipeter) \
 Code: Copyright (C) 2023
