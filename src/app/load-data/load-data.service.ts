@@ -10,6 +10,6 @@ export class LoadDataService {
   public loadData(fileName: string): Observable<string[]> {
     return this.http
       .get(`assets/${fileName}`, { responseType: 'text' })
-      .pipe(map((data: string) => data.split('\n')));
+      .pipe(map((data: string) => data.trim().split('\n')));
   }
 }

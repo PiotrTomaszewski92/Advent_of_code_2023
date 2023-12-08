@@ -12,7 +12,7 @@ import { Subscription } from 'rxjs';
   templateUrl: './day1.component.html',
 })
 export class Day1Component implements OnDestroy {
-  private readonly DAY_1_FILE_NAME: string = 'day1_part1.txt';
+  private readonly DAY_1_FILE_NAME: string = 'day1.txt';
 
   private readonly WORD_WITH_NUMBER_MAP: Map<string, number> = new Map([
     ['one', 1],
